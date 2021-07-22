@@ -71,3 +71,4 @@ Basic Principles of Git
 * Further readings:
   * [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
   * [Getting Started Videos](https://git-scm.com/videos)
+  * [Getting Started Videos](https://git-scm.com/videos)
